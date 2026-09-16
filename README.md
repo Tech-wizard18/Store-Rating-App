@@ -103,3 +103,5 @@ Opens at `http://localhost:3000`. Proxies API calls to port 5000.
 | GET | /api/stores | User | Browse stores |
 | POST | /api/stores/:id/rate | User | Submit/update rating |
 | GET | /api/store-owner/dashboard | Store Owner | My store dashboard |
+
+## Devops Learning Project
