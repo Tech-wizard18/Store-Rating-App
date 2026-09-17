@@ -105,3 +105,5 @@ Opens at `http://localhost:3000`. Proxies API calls to port 5000.
 | GET | /api/store-owner/dashboard | Store Owner | My store dashboard |
 
 ## Devops Learning Project
+
+This project is being used to learn and practise DevOps deployment concepts.
