@@ -5,7 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "start:dev": "node -r dotenv/config src/index.js dotenv_config_path=.env",
+    "start:qa": "node -r dotenv/config src/index.js dotenv_config_path=.env.qa"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
